@@ -5,8 +5,13 @@
 * Troubleshooting with general patches
 
 
+#  #  Trill info
 
-# # Trill and Supercollider
+You are able to find more info about how to instal and use this sensor here:
+[learn.bela.io] (https://learn.bela.io/products/trill/working-with-trill-craft/)
+
+
+#  #  Trill and Supercollider
 
 In order to use the trill on bela we’ll have to download 2 files inside bela.
 
