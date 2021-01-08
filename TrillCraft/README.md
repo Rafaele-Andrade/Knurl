@@ -15,23 +15,25 @@ You are able to find more info about how to instal and use this sensor here:
 
 In order to use the trill on bela we’ll have to download 2 files inside bela.
 
-You can follow Jon's tutorial or mine (below):
+You can follow Jon's tutorial or mine (bellow):
 * https://github.com/jreus/Trill_SC
 
 
-//1. Copy the folder on the github or google drive with the name ‘TrillBela’. It contains 3 files. We will copy these files to the extension folder in SC on bela
+## 1. Copy the folder on the github or google drive with the name ‘TrillBela’. It contains 3 files. We will copy these files to the extension folder in SC on bela
 
-//2. Open your terminal and go inside this file (I placed on my desktop) by running :
+## 2. Open your terminal and go inside this file (I placed on my desktop) by running :
 cd   /Users/rafaelemariaandrade/Desktop/TrillBela
 
-//3. Now we’ll copy and paste to .so files that will enable us to use the trill craft with supercollider language, the template of this code  is:
+## 3. Now we’ll copy and paste to .so files that will enable us to use the trill craft with supercollider language, the template of this code  is:
 scp   [the file]  [the address]
 
 //so, we’ll run:
 scp TrillRaw.so  root@bela.local:/usr/local/share/SuperCollider/Extensions
 scp TrillCentroids.so  root@bela.local:/usr/local/share/SuperCollider/Extensions
 
-That’s it! Now you’re able to test the trill’s files.
+Allow to proceed pressing 'yes'
+
+## That’s it! Now you’re able to test the trill’s files.
 
 
 ## Troubleshooting
