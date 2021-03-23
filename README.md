@@ -2,7 +2,7 @@
 
 Knurl, an interactive 'cello' with 24 strings (2021), is a shift into exploring the potential of hybrid instruments (acoustic-electronic) to be enhanced by its interaction with audiences. Through built-in electronic components, as well as the potential for music to be a shared endeavor between performers and remote/local audiences, Knurl is generating a new concept of music production, were the borders between listeners, producers and performers become undecipherable. 
 
-<img src="Image/main.jpg">
+<img src="Image/main.jpeg">
 
 Knurl is maintained by Knurl Lab, an non profit organization and laboratory of artistic practices grounded inside an instrument: Knurl, (an hybrid, solar powered and reprogrammable cello) is best conceived not merely as an object but as an ever-evolving exploration for music practices and interfaces, an attempt to enhance a hybrid instrument (acoustic-electronic) by incorporating social practices, sonic concepts, audience engagement and sustainability within the body of the instrument itself. 
 
